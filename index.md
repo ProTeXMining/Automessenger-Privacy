@@ -1,7 +1,7 @@
 # Privacy Policy – AutoMessenger
 
 Effective Date: [insert today’s date]
-
+ 
 AutoMessenger is a small, personal-use application created for use with a single eBay seller account. The purpose of this application is to send a one-time courtesy message to buyers after a completed purchase, such as a thank-you message or confirmation of order processing or shipment.
 
 ## Information Collection and Use
